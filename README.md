@@ -1,7 +1,7 @@
 <p>姓名:徐苡涵
 <p>學號:1151828
 
-![alt text](image-2.png)
+![alt text](image-2.png.gitignore)
 
 <p>組別:數位設計組
 <p>興趣:唱歌
